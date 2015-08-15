@@ -1,0 +1,16 @@
+{
+  "name": "Go Websocket Chat Demo",
+  "description": "Go websocket chat demo application.",
+  "keywords": [
+    "streaming",
+    "redis",
+    "go"
+  ],
+  "image": "heroku/go-gb:1.4.2",
+  "website": "http://github.com/heroku-examples/go-websocket-chat-demo",
+  "repository": "http://github.com/heroku-examples/go-websocket-chat-demol",
+  "scripts": {},
+  "addons": [
+    "heroku-redis"
+  ]
+}
