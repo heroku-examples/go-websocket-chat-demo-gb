@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"code.google.com/p/go-uuid/uuid"
 	log "github.com/Sirupsen/logrus"
 	"github.com/garyburd/redigo/redis"
 	"github.com/gorilla/websocket"
+	"github.com/pborman/uuid"
 )
 
 const (
