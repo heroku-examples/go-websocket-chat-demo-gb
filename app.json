@@ -6,7 +6,7 @@
     "redis",
     "go"
   ],
-  "image": "heroku/go-gb:1.4.2",
+  "image": "heroku/go-gb:1.5",
   "website": "http://github.com/heroku-examples/go-websocket-chat-demo",
   "repository": "http://github.com/heroku-examples/go-websocket-chat-demol",
   "scripts": {},
